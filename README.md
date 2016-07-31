@@ -7,4 +7,3 @@ Zavlažování pro naši školu, GJK
 * Triska na stříkání vody : http://bit.ly/2ad9Ub0
 * Arduino : http://amzn.to/2ada6qK
 * Ethernet modul : http://bit.ly/2ada0zl
-* 
