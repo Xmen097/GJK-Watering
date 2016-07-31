@@ -11,4 +11,5 @@ Zavlažování pro naši školu, GJK
 Cena za ingredience: +-1031 Kč
 + Občerstvení pro stavitele => kolem 100 Kč
 + Rezerva na další udělátka => kolem 200 Kč
+
 Celková cena je tedy asi 1300 Kč.
