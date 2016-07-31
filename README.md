@@ -9,7 +9,6 @@ Zavlažování pro naši školu, GJK
 * Ethernet modul / shield : http://bit.ly/2ada0zl / http://amzn.to/2alHu4B - Pro napojení na server s počasím pro předvídání deště a úpravu zavlažování. => 200 Kč
 
 Cena za ingredience: +-1031 Kč
-+ Občerstvení pro stavitele => kolem 100000 Kč
++ Občerstvení pro stavitele => kolem 100 Kč
 + Rezerva na další udělátka => kolem 200 Kč
-
-Celková cena je tedy asi 101000 Kč.
+Celková cena je tedy asi 1300 Kč.
